@@ -63,4 +63,4 @@ Use these as a reference material if you are stuck in the assignments.
     - GradCAM Continuation (Part 2)
   - **Model Interpretation Methods**
 ### `Certificate`<br>
-> <img src="https://github.com/Sahilnalawade/Deep_Learning_Courses/blob/main/AI_in_Medicine/AI_in_Medicine_Specialization.pdf" width=400px height=300px>
+> <img src="https://github.com/Sahilnalawade/Deep_Learning_Courses/blob/main/AI_in_Medicine/AI_In_Medical_Imaging_Specialization.JPG" width=400px height=300px>
